@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-plugin-starter-template",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"description": "A robust starter template for developing Obsidian plugins with modern tooling and best practices.",
 	"main": "main.js",
 	"type": "module",

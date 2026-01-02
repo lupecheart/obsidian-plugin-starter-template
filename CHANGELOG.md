@@ -1,3 +1,9 @@
+# [1.2.0](https://github.com/luispernia/obsidian-plugin-starter-template/compare/v1.1.0...v1.2.0) (2026-01-02)
+
+### Features
+
+- Implement NoteCounterService for word and character counting, add its tests, and update architecture guidelines. ([8fb8912](https://github.com/luispernia/obsidian-plugin-starter-template/commit/8fb8912f830453c22ff18bd8ae0c35051d4a7393))
+
 # [1.1.0](https://github.com/luispernia/obsidian-plugin-starter-template/compare/v1.0.0...v1.1.0) (2026-01-02)
 
 ### Features
