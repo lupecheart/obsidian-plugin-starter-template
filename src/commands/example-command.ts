@@ -1,7 +1,7 @@
 import { Editor, MarkdownView } from "obsidian";
-import { TemplateModal } from "../ui/sample-modal";
-import { getFormattedDate } from "../utils/helpers";
-import ObsidianStarterPlugin from "../main";
+import { TemplateModal } from "@/ui/sample-modal";
+import { getFormattedDate } from "@/utils/helpers";
+import ObsidianStarterPlugin from "@/main";
 
 export function registerCommands(plugin: ObsidianStarterPlugin) {
 	plugin.addCommand({
