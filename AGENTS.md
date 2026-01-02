@@ -65,6 +65,13 @@ This is a robust starter template for developing Obsidian plugins with modern to
     - Use kebab-case for file names (e.g., `my-view.css`).
     - Scope styles with specific class names to avoid global conflicts (e.g., `.my-view-container .element`).
 
+### Architecture Guidelines
+
+- **UI Separation**: Keep `src/ui/` strictly for views, modals, and display logic.
+- **Business Logic**: Use `src/services/` for state management and core business logic.
+- **Utilities**: specific pure functions and helpers go in `src/utils/`.
+- **Commands**: Command implementations in `src/commands/`.
+
 ## Release Workflow
 
 This project uses **Semantic Release** to automate versioning and publishing.
