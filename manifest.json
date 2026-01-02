@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-plugin-starter-template",
+	"name": "Obsidian Plugin Starter Template",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "A robust starter template for developing Obsidian plugins with modern tooling and best practices.",
+	"author": "Luis Pernia",
+	"authorUrl": "https://github.com/luispernia",
+	"fundingUrl": "https://github.com/sponsors/luispernia",
 	"isDesktopOnly": false
 }

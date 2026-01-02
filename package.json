@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-plugin-starter-template",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "A robust starter template for developing Obsidian plugins with modern tooling and best practices.",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
