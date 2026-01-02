@@ -52,6 +52,19 @@ This is a robust starter template for developing Obsidian plugins with modern to
 └── vitest.config.ts      # Test configuration
 ```
 
+### CSS Architecture
+
+- **Modular Styles**:
+    - **Source**: All CSS source files reside in `src/styles/`.
+    - **Build**: `esbuild` bundles these into the final `styles.css`. **Do not edit `styles.css` directly.**
+- **Structure**:
+    - `variables.css`: Global CSS variables (colors, spacing) mapped from Obsidian themes.
+    - `main.css`: The entry point that imports all other CSS files.
+    - Component-specific files (e.g., `focus-session-view.css`) for isolated styles.
+- **Conventions**:
+    - Use kebab-case for file names (e.g., `my-view.css`).
+    - Scope styles with specific class names to avoid global conflicts (e.g., `.my-view-container .element`).
+
 ## Release Workflow
 
 This project uses **Semantic Release** to automate versioning and publishing.
