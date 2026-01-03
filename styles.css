@@ -1,8 +1,9 @@
-/*
+/* src/styles/variables.css */
+:root {
+}
 
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
-
-If your plugin does not need CSS, delete this file.
-
-*/
+/* src/styles/main.css */
+body {
+  background-color: var(--background-primary);
+}
+/*# sourceMappingURL=data:application/json;base64,ewogICJ2ZXJzaW9uIjogMywKICAic291cmNlcyI6IFsic3JjL3N0eWxlcy92YXJpYWJsZXMuY3NzIiwgInNyYy9zdHlsZXMvbWFpbi5jc3MiXSwKICAic291cmNlc0NvbnRlbnQiOiBbIi8qIEdsb2JhbCBDU1MgdmFyaWFibGVzIChjb2xvcnMsIHNwYWNpbmcpIG1hcHBlZCBmcm9tIE9ic2lkaWFuIHRoZW1lcyAqL1xuOnJvb3Qge1xuXHQvKiBFeGFtcGxlIHZhcmlhYmxlICovXG5cdC8qIC0tbXktcGx1Z2luLWNvbG9yOiB2YXIoLS10ZXh0LW5vcm1hbCk7ICovXG59IiwgIi8qIE1haW4gQ1NTIGVudHJ5IHBvaW50ICovXG5AaW1wb3J0IFwiLi92YXJpYWJsZXMuY3NzXCI7XG5cbmJvZHkge1xuICAgIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWJhY2tncm91bmQtcHJpbWFyeSk7XG59XG5cbi8qIEltcG9ydCBvdGhlciBjb21wb25lbnQgc3R5bGVzIGhlcmUgKi9cbi8qIEBpbXBvcnQgXCIuL2NvbXBvbmVudHMvbXktdmlldy5jc3NcIjsgKi8iXSwKICAibWFwcGluZ3MiOiAiO0FBQ0E7QUFHQTs7O0FDREE7QUFDSSxvQkFBa0IsSUFBSTtBQUMxQjsiLAogICJuYW1lcyI6IFtdCn0K */

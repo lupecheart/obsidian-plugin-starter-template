@@ -1,0 +1,9 @@
+/* Main CSS entry point */
+@import "./variables.css";
+
+body {
+	background-color: var(--background-primary);
+}
+
+/* Import other component styles here */
+/* @import "./components/my-view.css"; */

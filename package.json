@@ -4,6 +4,10 @@
 	"description": "A robust starter template for developing Obsidian plugins with modern tooling and best practices.",
 	"main": "main.js",
 	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/luispernia/obsidian-plugin-starter-template.git"
+	},
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
 		"build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production",
