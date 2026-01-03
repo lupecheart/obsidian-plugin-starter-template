@@ -1,3 +1,9 @@
+# [1.3.0](https://github.com/luispernia/obsidian-plugin-starter-template/compare/v1.2.0...v1.3.0) (2026-01-03)
+
+### Features
+
+- Implement CSS bundling with esbuild, introduce new style files, and update build configuration and package repository. ([502c732](https://github.com/luispernia/obsidian-plugin-starter-template/commit/502c73294a53313bbd3b10c347b581f83ea599e1))
+
 # [1.2.0](https://github.com/luispernia/obsidian-plugin-starter-template/compare/v1.1.0...v1.2.0) (2026-01-02)
 
 ### Features
