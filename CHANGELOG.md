@@ -1,3 +1,9 @@
+## [1.3.1](https://github.com/lupecheart/obsidian-plugin-starter-template/compare/v1.3.0...v1.3.1) (2026-01-04)
+
+### Bug Fixes
+
+- update funding URL in manifest ([111a879](https://github.com/lupecheart/obsidian-plugin-starter-template/commit/111a879a531864eff7746c52fab97c726d5e1aef))
+
 # [1.3.0](https://github.com/lupecheart/obsidian-plugin-starter-template/compare/v1.2.0...v1.3.0) (2026-01-03)
 
 ### Features

@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-plugin-starter-template",
 	"name": "Obsidian Plugin Starter Template",
-	"version": "1.3.0",
+	"version": "1.3.1",
 	"minAppVersion": "0.15.0",
 	"description": "A robust starter template for developing Obsidian plugins with modern tooling and best practices.",
 	"author": "Luis Pernia",
