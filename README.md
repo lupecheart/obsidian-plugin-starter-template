@@ -75,4 +75,6 @@ This repository includes an [`AGENTS.md`](./AGENTS.md) file. This file contains 
 
 ## License
 
+Developed by [Luis Pernia](https://github.com/lupecheart)
+
 [MIT](./LICENSE) (or whichever license you prefer)

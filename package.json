@@ -6,7 +6,7 @@
 	"type": "module",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/luispernia/obsidian-plugin-starter-template.git"
+		"url": "git+https://github.com/lupecheart/obsidian-plugin-starter-template.git"
 	},
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

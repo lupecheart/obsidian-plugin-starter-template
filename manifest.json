@@ -5,7 +5,7 @@
 	"minAppVersion": "0.15.0",
 	"description": "A robust starter template for developing Obsidian plugins with modern tooling and best practices.",
 	"author": "Luis Pernia",
-	"authorUrl": "https://github.com/luispernia",
+	"authorUrl": "https://github.com/lupecheart",
 	"fundingUrl": "https://github.com/sponsors/luispernia",
 	"isDesktopOnly": false
 }
